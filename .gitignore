@@ -13,4 +13,4 @@ ENV/
 env.bak/
 venv.bak/
 pythonenv*
-parciais/static/vendo
+templates/parciais/static/vendo
